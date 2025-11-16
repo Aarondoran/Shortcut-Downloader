@@ -7,6 +7,12 @@
   {
   "Locked": {
     "name": "Locked",
-    "description": "Lock iPad",
+    "description": "Lock iPad", 
     "link": "https://www.icloud.com/shortcuts/975a92c901924599b0bfe4b92bce650b"
-}
+},
+  {
+  "Apple pay": {
+    "name": Apple pay",
+    "description": "Plays an apple play sound",
+    "link": "https://www.icloud.com/shortcuts/e8e00ecdd1f041a7b028aaa823d34ab4"
+  }
