@@ -12,9 +12,14 @@
 },
 
 "Apple pay":{
-"name":
-"Apple pay",
-"link ":"https:\/\/www.icloud.com\/shortcuts\/e8e00ecdd1f041a7b028aaa823d34ab4",
-"description": "Plays an apple pay sound"
+  "name":"Apple pay",
+  "link ":"https:\/\/www.icloud.com\/shortcuts\/e8e00ecdd1f041a7b028aaa823d34ab4",
+  "description": "Plays an apple pay sound"
+}
+
+"Hotbox":{
+  "name": "Hotbox",
+  "link": "https://www.icloud.com/shortcuts/01b301e287704f18b07a6fea326552c0",
+  "description": "Hotbox temporary email"
 }
 }
